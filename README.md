@@ -27,8 +27,9 @@ Ich habe ein Youtube-Video veröffentlicht, welches den Sachverhalt inkl. des Py
 
 ## 🇩🇪 Notebook öffnen
 
-Das Notebook steht exportiert in [Altersvorsorge.html] zur verfügung. Der Quellcode [Altersvorsorge.ipynb] lässt sich 
-wie folgt öffnen.
+**Das Notebook steht exportiert in [Altersvorsorge.html](https://benkku.com/Altersvorsorge/Altersvorsorge.html)**
+[(Quelle)](./Altersvorsorge.html) zur Verfügung. Der Quellcode [Altersvorsorge.ipynb](./Altersvorsorge.ipynb) lässt sich wie
+folgt bearbeiten:
 
 Ich verwende Python 3.19.9 sowie die Requirements in `requirements.txt`. Mit 
 [`pyenv`](https://github.com/pyenv/pyenv?tab=readme-ov-file) lässt sich diese Python-Version als alternative Python-Version
