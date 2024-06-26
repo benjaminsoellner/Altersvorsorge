@@ -23,6 +23,7 @@ Plotly ausgibt.
 
 Ich habe ein Youtube-Video veröffentlicht, welches den Sachverhalt inkl. des Python-Notebooks erklärt:
 
+https://www.youtube.com/watch?v=qNGv0yHktQs
 
 
 ## 🇩🇪 Notebook öffnen
